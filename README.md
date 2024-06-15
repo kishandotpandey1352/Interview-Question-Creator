@@ -40,12 +40,49 @@ python app.py
 ```
 
 ### Use the app
-    #####  Upload a pdf preferably 5 pages at max
-    #####  Submit and
-    #####  Click on download button to recive the output as csv file
+#####  Upload a pdf preferably 5 pages at max
+#####  Submit and
+#####  Click on download button to recive the output as csv file
 
 ### Deploy the app on AWS EC2: 
 ##### Create an AWS instance
+
 ##### Deploy the app on AWS EC2 instance
+```bash
+sudo apt update
+```
 
+```bash
+sudo apt-get update
+```
 
+```bash
+sudo apt upgrade -y
+```
+
+```bash
+sudo apt install git curl unzip tar make sudo vim wget -y
+```
+
+```bash
+git clone "Your-repository"
+```
+
+```bash
+sudo apt install python3-pip
+```
+
+```bash
+pip3 install -r requirements.txt
+```
+##### If it shows error, create a virtual environment and activate it, then install all the packages
+
+```bash
+#Temporary running
+python3 app.py
+```
+
+```bash
+#Permanent running
+http://externalIPonAWS_Instance:configured port in security group under inbound rules
+```
