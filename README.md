@@ -84,5 +84,6 @@ python3 app.py
 
 ```bash
 #Permanent running
-http://externalIPonAWS_Instance:configured port in security group under inbound rules
+http://[externalIPonAWS_Instance] - colon - [configured port] in security group under inbound rules
+## http://134.44.3.2:8080
 ```
