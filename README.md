@@ -44,9 +44,8 @@ python app.py
     #####  Submit and
     #####  Click on download button to recive the output as csv file
 
-### Deploy the app on AWS EC2:
-![image info](static/images/app_img.png) 
-    ##### Create an AWS instance
-    ##### Deploy the app on AWS EC2 instance
+### Deploy the app on AWS EC2: 
+##### Create an AWS instance
+##### Deploy the app on AWS EC2 instance
 
 
