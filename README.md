@@ -47,7 +47,7 @@ python app.py
 ### Deploy the app on AWS EC2: 
 ##### Create an AWS instance
 
-##### Deploy the app on AWS EC2 instance
+##### Deploy the app on AWS EC2 instance (Linux)
 ```bash
 sudo apt update
 ```
