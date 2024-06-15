@@ -14,7 +14,6 @@ git commit -m "code updated"
 ```bash
 git push origin main
 ```
-git push origin main
 
 ### How to run
 
@@ -40,9 +39,14 @@ python app.py
 
 ```
 
-6. Use the app
-    ##### 1. Upload a pdf preferably 5 pages at max
-    ##### 2. submit and
-    ##### 3. Click on download button to recive the output as csv file
+### Use the app
+    #####  Upload a pdf preferably 5 pages at max
+    #####  Submit and
+    #####  Click on download button to recive the output as csv file
 
 ### Deploy the app on AWS EC2:
+    ![image info](static/images/app_img.png) 
+    ##### Create an AWS instance
+    ##### Deploy the app on AWS EC2 instance
+
+
