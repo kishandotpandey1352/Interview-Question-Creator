@@ -45,7 +45,8 @@ python app.py
     #####  Click on download button to recive the output as csv file
 
 ### Deploy the app on AWS EC2:
-    ![image info](static/images/app_img.png) 
+[    ![image info](static/images/app_img.png) 
+](https://github.com/kishandotpandey1352/Interview-Question-Creator/issues/1#issue-2355044342)
     ##### Create an AWS instance
     ##### Deploy the app on AWS EC2 instance
 
